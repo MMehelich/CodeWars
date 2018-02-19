@@ -1,0 +1,3 @@
+Kata link: https://www.codewars.com/kata/regex-validate-pin-code
+
+Other link: https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/solutions/javascript
